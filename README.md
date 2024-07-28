@@ -11,7 +11,7 @@ Este é um projeto desenvolvido em React e TypeScript, que implementa uma calcul
 
 ### Pré-requisitos
 
-Certifique-se de ter o Node.js e npm instalados em sua máquina.
+Certifique-se de ter o Node.js instalado em sua máquina.
 
 ### Instalação
 - `npm install`
